@@ -1,9 +1,0 @@
-# Ignore .ipynb_checkpoints folder
-.ipynb_checkpoints/
-
-# Ignore specific files
-config.json
-access_token_info.json
-message_log.json
-recipient_prompt.json
-gpt_api_key
