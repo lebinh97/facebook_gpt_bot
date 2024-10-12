@@ -1,0 +1,11 @@
+# Ignore .ipynb_checkpoints folder
+.ipynb_checkpoints/
+__pycache__/
+
+# Ignore specific files
+config.json
+access_token_info.json
+gpt_api_key.json
+get_page_permission.ipynb
+fb_msg.ipynb
+llm_testing.ipynb
